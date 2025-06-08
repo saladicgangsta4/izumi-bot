@@ -1,27 +1,27 @@
 {
-  "name": "izumi-bot",
+  "name": "gangsta",
   "version": "3.7.9",
-  "description": "Izumi simple multi device WhatsApp Bot.",
+  "description": "gangsta simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name izumi-bot",
+    "start": "pm2 start . --attach --name gangsta",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akshay-Eypz/izumi-bot.git"
+    "url": "git+https://github.com/Akshay-Eypz/gangsta-bot.git"
   },
   "keywords": [
     "bot",
-    "izumi",
+    "gangsta",
     "Eypz"
   ],
   "author": "EYPZ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Akshay-Eypz/izumi-bot/issues"
+    "url": "https://github.com/Akshay-Eypz/gangsta-bot/issues"
   },
-  "homepage": "https://github.com/Akshay-Eypz/izumi-bot#readme",
+  "homepage": "https://github.com/Akshay-Eypz/gangsta-bot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "github:Akshay-Eypz/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
